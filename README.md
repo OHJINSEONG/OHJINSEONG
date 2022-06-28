@@ -1,4 +1,11 @@
-### Hi there 👋
+# Developer 진성~ 
+
+안녕하세요. 희소가치를 지닌 웹개발자가 되고싶은 오진성입니다.
+
+ - 🔭 현재 풀스택 웹개발 공부를 하고 있습니다!
+
+ - 📫https://www.instagram.com/jinseonggod_
+
 
 <!--
 **OHJINSEONG/OHJINSEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
