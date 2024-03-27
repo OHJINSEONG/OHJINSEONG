@@ -4,7 +4,6 @@
 
  - 🔭 현재 풀스택 웹개발 공부를 하고 있습니다!
 
- - 📫https://www.instagram.com/jinseonggod_
 
 ## Skill
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
